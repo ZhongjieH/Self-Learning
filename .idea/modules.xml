@@ -3,7 +3,11 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/Algorithm/Algorithm.iml" filepath="$PROJECT_DIR$/Algorithm/Algorithm.iml" />
-      <module fileurl="file://$PROJECT_DIR$/Self-Learning.iml" filepath="$PROJECT_DIR$/Self-Learning.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Data Structure/Data_Structure.iml" filepath="$PROJECT_DIR$/Data Structure/Data_Structure.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Design_Pattern/Design_Pattern.iml" filepath="$PROJECT_DIR$/Design_Pattern/Design_Pattern.iml" />
+      <module fileurl="file://$PROJECT_DIR$/English_Learning/English_Learning.iml" filepath="$PROJECT_DIR$/English_Learning/English_Learning.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Machine_Learning/Machine_Learning.iml" filepath="$PROJECT_DIR$/Machine_Learning/Machine_Learning.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Self_Learning.iml" filepath="$PROJECT_DIR$/Self_Learning.iml" />
     </modules>
   </component>
 </project>
